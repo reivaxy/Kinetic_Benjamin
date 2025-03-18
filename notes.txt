@@ -1,0 +1,2 @@
+Echelle des fichiers STL: 0.95
+Echelle des fichiers IGES: 1.56
