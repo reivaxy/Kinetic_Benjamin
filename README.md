@@ -1,4 +1,4 @@
-This is first Prototype of a customized Kinetic hand for Benjamin from Québec.
+This is the first prototype of a customized Kinetic hand for Benjamin from Québec.
 
 [Kinetic is an open source device](https://www.thingiverse.com/thing:4618922) released by Matt Bowtell under the [Creative Commons - Attribution - Non-Commercial - Share Alike license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
