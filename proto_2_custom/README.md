@@ -1,6 +1,6 @@
 My first Kinetic hand customization attempt, with some Dungeons & Dragons graphics.
 
-This prototype also improves angle between natural and Kinetic fingers (latter being less angled outward), hopefully better size fitting, better adjusted TPU cover
+This prototype also improves angle between natural and Kinetic fingers (latter being less angled outward), hopefully better size fitting, better adjusted TPU cover, and shorter fingers.
 
 ![20250416_153905](https://github.com/user-attachments/assets/50eafb9d-c313-4764-ab73-88011156cf2a)
 
